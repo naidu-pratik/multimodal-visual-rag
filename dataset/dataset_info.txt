@@ -1,0 +1,4 @@
+Open access chest X-ray collection from Indiana University
+Original source: https://openi.nlm.nih.gov/
+
+Chest X-ray Dataset: https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university
